@@ -7,7 +7,7 @@ public class SingleNumber {
 		return result;
 	}
 	public static void main (String[] args){
-		int[] nums= {1,2,2};
+		int[] nums= {1,2,2,3,4,4,};
 		int single = SingleNums(nums);
 		System.out.println(single);
 	}
@@ -37,3 +37,6 @@ public class SingleNumber {
 /*
  * Test Git Commit...
  */
+
+
+
