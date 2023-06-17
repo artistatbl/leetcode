@@ -32,3 +32,8 @@ public class SingleNumber {
   * by the XORing the elements the array, the elements that appear twice will cancel themselve and leave the single number out.
   * there for printing out the single number in the array out to the console. 
   */
+
+
+/*
+ * Test Git Commit...
+ */
